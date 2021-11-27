@@ -1,0 +1,32 @@
+body{
+    background-image:url(../images/floor-tile.png);
+    height:100vh;
+}
+form{
+    height:100vh;
+}
+form input{
+    border:none;
+    height:5vh;
+    width:50%;
+    border-radius:10px;
+    background-color: #FEF7DC;
+}
+div.hww img{
+    width:20%;
+    color:brown;
+}
+.btn-outline-brown{
+    background-color:#865439;
+    border:none;
+    padding:10px 30px;
+}
+form input[placeholder]{
+    padding-left: 30px;
+}
+form input:focus{
+    outline:none;
+}
+@media all and (max-width:567px) {
+    
+}
